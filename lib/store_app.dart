@@ -17,6 +17,6 @@ class StoreApp extends StatelessWidget {
           appBar: AppBar(
             title: const Text('StoreApp'),
           ),
-        ));
+        ),);
   }
 }

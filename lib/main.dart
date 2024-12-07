@@ -14,7 +14,7 @@ void main() async {
           appId: '1:300928218774:android:ea0487272459b9be14f4b7',
           messagingSenderId: '300928218774',
           projectId: 'store-app-92f67',
-        ))
+        ),)
       : await Firebase.initializeApp();
 
   runApp(const StoreApp());
